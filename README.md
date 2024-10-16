@@ -27,7 +27,7 @@ My name is Harry. I am a hobbyist programmer, a novice hacker and a student of p
 ### Distros
 ![Arch](https://img.shields.io/badge/Arch-dimgrey?style=for-the-badge&logo=archlinux&logoColor=white) ![Deb](https://img.shields.io/badge/Debian-dimgrey?style=for-the-badge&logo=debian&logoColor=white)
 ### Certificates
-![CompTIA](https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge)
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=NQ4KQXVVKZKPV3GV" target="_blank"><img src="https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge"></a>
 
 ### Contacts
 <a href="mailto:harrybrandon0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
