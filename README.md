@@ -25,7 +25,7 @@ My name is Harry. I am a hobbyist programmer, a novice hacker and a student of p
 ### AI Toolkit
  ![AI](https://img.shields.io/badge/perplexity-dodgerblue?style=for-the-badge&logo=perplexity&logoColor=white) ![AI](https://img.shields.io/badge/Ollama-dodgerblue?style=for-the-badge&logo=ollama) ![AI](https://img.shields.io/badge/Stable_Diffusion-dodgerblue?style=for-the-badge&logo=anthropic)
 ### Distros
-![Arch](https://img.shields.io/badge/Arch-black?style=for-the-badge&logo=archlinux&logoColor=white) ![Deb](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-bimgrey?style=for-the-badge&logo=archlinux&logoColor=white) ![Deb](https://img.shields.io/badge/Debian-dimgrey?style=for-the-badge&logo=debian&logoColor=white)
 ### Certificates
 ![CompTIA](https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge)
 
