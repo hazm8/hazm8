@@ -29,3 +29,8 @@ My name is Harry. I am a hobbyist programmer, a novice hacker and a student of p
 ### Certificates
 ![CompTIA](https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge)
 
+### Contacts
+<a href="mailto:harrybrandon0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="www.linkedin.com/in/harry-brandon-a40a09262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
