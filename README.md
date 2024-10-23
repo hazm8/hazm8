@@ -28,10 +28,6 @@ My name is Harry. I am a hobbyist programmer, a novice hacker and a student of p
 ![Arch](https://img.shields.io/badge/Arch-dimgrey?style=for-the-badge&logo=archlinux&logoColor=white) ![Deb](https://img.shields.io/badge/Debian-dimgrey?style=for-the-badge&logo=debian&logoColor=white)
 ### Certificates
 <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=NQ4KQXVVKZKPV3GV" target="_blank"><img src="https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge"></a>
-
-## Badges (HTB)
-<a href="[www.htb.com](https://academy.hackthebox.com/achievement/badge/ce2e10f8-3a50-11ee-acfc-bea50ffe6cb4)" "target="_blank"><img src="https://academy.hackthebox.com/achievement/badge/ce2e10f8-3a50-11ee-acfc-bea50ffe6cb4"></a>
-
 ### Contacts
 <a href="mailto:harrybrandon0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="www.linkedin.com/in/harry-brandon-a40a09262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
