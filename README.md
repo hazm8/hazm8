@@ -30,7 +30,7 @@ My name is Harry. I am a hobbyist programmer, a novice hacker and a student of p
 <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=NQ4KQXVVKZKPV3GV" target="_blank"><img src="https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge"></a>
 
 ## Badges (HTB)
-<a href="www.htb.com" "target="_blank"><img src="https://academy.hackthebox.com/achievement/badge/ce2e10f8-3a50-11ee-acfc-bea50ffe6cb4"></a>
+<a href="[www.htb.com](https://academy.hackthebox.com/achievement/badge/ce2e10f8-3a50-11ee-acfc-bea50ffe6cb4)" "target="_blank"><img src="https://academy.hackthebox.com/achievement/badge/ce2e10f8-3a50-11ee-acfc-bea50ffe6cb4"></a>
 
 ### Contacts
 <a href="mailto:harrybrandon0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
